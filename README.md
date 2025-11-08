@@ -1,5 +1,5 @@
 # JP-Morgan-Chase-Perspective
-Analysing stock market data using JPMorgan Chase Perspective Tool
+Analysing stock market data 
 
 This repository contains all the code for analysing stock market data using JPMorgan Chase Perspective Tool.
 
